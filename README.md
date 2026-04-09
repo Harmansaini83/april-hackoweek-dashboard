@@ -152,3 +152,27 @@ Predicts machine failure based on sensor inputs using a classification model.
 ---
 
 ## 📂 Project Structure
+aprilhackoweek/
+│── app.py # Main Streamlit application
+│── sensor_data.csv # Sample dataset
+│── README.md # Documentation
+│── screenshots/ # Output images
+
+
+---
+
+## 📊 Sample Dataset
+
+The project uses a sample CSV file containing:
+- Time-series data
+- Temperature readings
+- Vibration values
+- Proximity sensor data
+
+Missing values are intentionally included for testing data cleaning functionality.
+
+---
+
+## ▶️ Installation & Setup
+
+### 🔧 Step 1: Clone Repository
