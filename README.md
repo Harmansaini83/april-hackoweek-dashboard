@@ -173,6 +173,65 @@ Missing values are intentionally included for testing data cleaning functionalit
 
 ---
 
-## ▶️ Installation & Setup
+---
 
-### 🔧 Step 1: Clone Repository
+## 💡 Key Features
+
+- Interactive UI with sidebar navigation  
+- Real-time data processing  
+- Dynamic graph generation  
+- Machine learning integration  
+- Beginner-friendly implementation  
+
+---
+
+## 📚 Key Learnings
+
+- Building web apps using Streamlit  
+- Handling missing data using Pandas  
+- Data visualization techniques  
+- Implementing machine learning models  
+- Designing modular applications  
+
+---
+
+## 🚀 Future Enhancements
+
+- Integration with real IoT sensors  
+- Deployment on cloud platforms  
+- Advanced machine learning models  
+- Database integration  
+- Improved UI/UX design  
+
+---
+
+## 🎤 Use Cases
+
+- Smart factories  
+- Industrial automation  
+- Health monitoring systems  
+- Smart city applications  
+- AI-based monitoring systems  
+
+---
+
+## 👨‍💻 Author
+
+**Harman Saini**  
+B.Tech CSE (AIML)  
+
+
+---
+
+## ⭐ Support
+
+If you found this project useful:
+- Give it a ⭐ on GitHub  
+- Share with others  
+- Connect for collaboration  
+
+---
+
+## 📜 License
+
+This project is for educational purposes.
